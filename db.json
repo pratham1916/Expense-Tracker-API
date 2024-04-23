@@ -2,28 +2,28 @@
     "users": [],
     "expenses": [
         {
-            "id": 1,
+            "id": 2,
             "type": "Income",
             "category": "Salary",
             "amount": "50000",
             "date": "2024-04-02"
         },
         {
-            "id": 1,
+            "id": 2,
             "type": "Expense",
             "category": "Shopping",
             "amount": "10000",
             "date": "2024-04-02"
         },
         {
-            "id": 1,
+            "id": 2,
             "type": "Income",
             "category": "Refunds",
             "amount": "10000",
             "date": "2024-04-02"
         },
         {
-            "id": 1,
+            "id": 2,
             "type": "Expense",
             "category": "Bills",
             "amount": "3000",
